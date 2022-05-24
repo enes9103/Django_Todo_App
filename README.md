@@ -32,9 +32,6 @@ or start on the [landing page](http://localhost:8000/)
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- CONTACT -->
 ## Contact
@@ -65,8 +62,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Project Link: [https://github.com/enes9103](https://github.com/enes9103)
 </p>
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- SUPPORT -->
 ## Support
