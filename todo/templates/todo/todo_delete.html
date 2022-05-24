@@ -1,0 +1,12 @@
+{% extends 'todo/base.html' %}
+
+{% block container %}
+    <form action="" method="POST" style="margin: 5px; display: inline; text-align: center;">
+        <p >Are you sure Delete? </p>
+        {% csrf_token %}
+        <input class="btn btn-warning" style="margin-left: 43.5rem;" type="submit" value="Yes">
+    </form>
+    <a href="{% url 'list' %}" style="margin-left: 10px; margin-left: 1rem;">
+        <button class="btn btn-warning">No</button>
+    </a>
+{% endblock container %}
