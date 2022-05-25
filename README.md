@@ -8,6 +8,8 @@ JS  | [jQuery](https://jquery.com/)
 
 I've also build a quite similar app in Flask: https://github.com/enes9103/Django_Todo_App
 
+## Project Outcome
+![UntitleD](Animation.gif)
 
 ## Explore
 Try it out by installing the requirements. (Works only with python >= 3.8, due to Django 4)
