@@ -2,11 +2,11 @@
 
 
 {% block container %}
-    <h2>Add Todo</h2>
-    <form action="" method="POST">
+    <h3 class="d-flex justify-content-center p-3 m-3">You can add to-do here.</h3>
+    <form class="d-flex justify-content-center p-3 m-3"  action="" method="POST">
         {% csrf_token %}
         {{form.as_p}}
-        <input class="btn btn-warning" type="submit" value="ADD">
+        <input class="btn btn-warning"  style="margin: 0 0 0 1rem; height: 2.1rem;"type="submit" value="ADD">
     </form>
 
 {% endblock container %}
